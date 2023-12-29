@@ -16,6 +16,7 @@ Feature selection was performed using wrapper methods like forward selection and
 - Linear Regression
 - Decision Tree
 - Random Forest
+- Xgboost
 
 ## Model Selection and Validation
 - Hyperparameter tuning was conducted using GridSearchCV.
