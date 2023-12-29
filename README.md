@@ -21,6 +21,8 @@ Feature selection was performed using wrapper methods like forward selection and
 ## Model Selection and Validation
 - Hyperparameter tuning was conducted using GridSearchCV.
 - Best performing models: Random Forest and XGBoost with forward selection, achieving an R-squared of ~0.96.
+- ![image](https://github.com/Bsarma25/Life-Expectancy-Prediction-Evaluating-ML-Regressors/assets/69146497/37d2e480-dfeb-4195-96d7-e3de1216ee30)
+
 
 ## Conclusion
 The project demonstrates the effectiveness of machine learning in predicting life expectancy, with significant implications for healthcare policy and resource planning.
